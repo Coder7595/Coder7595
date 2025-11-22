@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coder7595
+- 👋 Hi, I’m @Dr.Bala-MD
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learning the languages
